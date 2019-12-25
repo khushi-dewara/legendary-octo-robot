@@ -1,2 +1,2 @@
 # legendary-octo-robot
-class 12 python practicals
+print("hello world")
