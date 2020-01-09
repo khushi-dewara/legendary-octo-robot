@@ -9,7 +9,7 @@ x = [1,2,3]
 
 # corresponding y axis values
 
-y = [2,4,1]   #y=[x*x]
+y = [1,4,9]   #y=[x*x]
 
 # plotting the points
 
