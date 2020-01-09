@@ -15,5 +15,5 @@ def rolladice():
 # Take user input here
 n=1
 while(n==1):
-   n = int(input("Enter 1 to roll a dice and get a random number:"))
+   n = int(input("Enter 1 to roll a dice:"))
    print(rolladice())
